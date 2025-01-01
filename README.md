@@ -1,4 +1,4 @@
-# Python pandas video series
+# Python pandas video series:
 
 The series is also available as a [free online course](https://courses.dataschool.io/pandas-in-30-days) that includes updated content, exercises, and a certificate of completion.
 
